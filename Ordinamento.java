@@ -2,7 +2,7 @@ package algoritmiord.ric;
 
 /**
  *
- * @author Cassio
+ * @author | (• ◡•)|Cassio(❍ᴥ❍ʋ)
  */
 public class Ordinamento {
 
