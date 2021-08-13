@@ -4,7 +4,7 @@ import java.util.Random;
 
 /**
  *
- * @author Cassio
+ * @author | (• ◡•)|Cassio(❍ᴥ❍ʋ)
  */
 public class AlgoritmiOrdRic {
 
